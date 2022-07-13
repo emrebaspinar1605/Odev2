@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Odev2\bin\Debug\net6.0\Odev2.exe
+C:\Users\Turku\Desktop\Pratikler\Odev2\bin\Debug\net6.0\Odev2.deps.json
+C:\Users\Turku\Desktop\Pratikler\Odev2\bin\Debug\net6.0\Odev2.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Odev2\bin\Debug\net6.0\Odev2.dll
+C:\Users\Turku\Desktop\Pratikler\Odev2\bin\Debug\net6.0\Odev2.pdb
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.dll
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\refint\Odev2.dll
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.pdb
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\Odev2.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Odev2\obj\Debug\net6.0\ref\Odev2.dll
